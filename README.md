@@ -1,4 +1,4 @@
 # hello-world
-# Know-hows, code-wows
+# Know hows, code wows
 
 
