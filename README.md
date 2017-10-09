@@ -1,2 +1,3 @@
 # hello-world
-Know-hows (Code-wows)
+Know-hows, code-wows
+
